@@ -123,9 +123,13 @@ body{
 }
 .image-div1{
     width: 100%;
-    background-image: url(images/main.jpg) ;
+     height: 550px;
+    
+}
+.middle-mainimage{
+    width: 100%;
+    height: 550px;
     cursor: pointer;
-    background-size: contain;
 }
 
     
@@ -136,18 +140,8 @@ body{
     position: absolute;
 
 }
-.left-arrow{
-    margin-left: 32px;
-    margin-top: 250px;
-    cursor: pointer;
-}
-.right-arrow{
-   float: right;
-    margin-top: 250px;
-    margin-top: 250px;
-    margin-right: 33px;
-    cursor: pointer;
-}
+
+
 .middlediv{
     width: 100%;
     height: 414px;
