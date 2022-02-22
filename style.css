@@ -124,7 +124,7 @@ body{
 .image-div1{
     width: 100%;
     height: 550px;
-    background-image: url(images/main\ image.jpg) ;
+    background-image: url(images/main.jpg) ;
     cursor: pointer;
     background-size: contain;
 }
